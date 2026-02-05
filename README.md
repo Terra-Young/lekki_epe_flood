@@ -27,4 +27,4 @@ The susceptibility index was calculated using a weighted overlay of four hydro-g
 - **Hosting:** GitHub Pages.
 
 ---
-*Created by [Eniola Akinnibi] - Risk Analyst & GIS Specialist*
+*Created by Eniola Akinnibi - Risk Analyst & GIS Specialist*
