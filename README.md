@@ -1,11 +1,11 @@
 # Flood Vulnerability Assessment: Lekki-Epe Corridor 🌊
 
-### 🗺️ [View the Interactive Map Here](https://terra-young.github.io/lekki_epe_flood/#11/6.5043/3.6952)
+### 🗺️ [View the Interactive Map Here]( https://terra-young.github.io/lekki_epe_flood/#11/6.5043/3.6952 )
 
 ## Project Overview
 As Lagos expands eastward, the Lekki-Epe corridor faces significant hydrological challenges. This project utilizes **Geospatial Intelligence** and **Multi-Criteria Decision Analysis (MCDA)** to model flood susceptibility, identifying safe zones for real estate development.
 
-![Map Screenshot]([Link to a screenshot of your map])
+![Map Screenshot](Lekki_Epe_Flood.jpeg)
 
 ## 📊 Key Findings
 - **Total Area Analyzed:** ~1,437 sq km.
